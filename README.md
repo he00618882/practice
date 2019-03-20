@@ -7,3 +7,5 @@ git add README.md
 git commit -m "frist commit"
 #3
 git push -u origin master 
+#4
+Hello Git
